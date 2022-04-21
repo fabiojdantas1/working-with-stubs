@@ -1,4 +1,4 @@
-# Working with Stubs
+# Working with stubs
 
 Working with stubs to convert the default behavior of a function by static objects.
 
